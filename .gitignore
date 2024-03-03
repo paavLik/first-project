@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 .gitignore
+**/.gitignore
 
 # Log file
 *.log
@@ -26,6 +27,7 @@ replay_pid*
 
 # macOS
 .DS_Store
+**/.DS_Store
 
 # idea
 .iml
